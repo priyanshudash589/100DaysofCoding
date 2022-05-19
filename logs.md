@@ -1,5 +1,26 @@
 #  100daysofcode daily logs
 
+###Purpose
+
+
+100 Days - 100 Projects it's a challenge I'm going to take (and you can join too) starting today (17th September 2019) that it's meant to improve my programming skills by building projects (lots of them emoji-smiley).
+
+Think of it as the next step if you ever participated in the #100DaysOfCode challenge.
+
+Note: Scroll down to see the projects I've built so far.
+
+Note #2: at the end of the post you can also find 3 variants of this challenge if you feel like changing it a little bit. 😄
+
+Rules
+create a project per day
+share your progress on Social Media (Twitter, Facebook, Linkedin, etc) using the #100Days100Projects hashtag
+a project could be: an app, a component, a website, a game, a library, etc
+you can pick what programming language and framework you like
+the project has to be done by 11:59 PM
+
+
+
+
 ### day0
 I am taking up the #100DaysOfCodeChallenge from Jan 1st 2022. Under this challenge , I have to code for atleast an hour every day for 100 days. Here are the Rules which I will be following for the challenge.
 I will be maintaining a Log in this repo, so that anyone can track my progress. All my work will be linked in Log.
